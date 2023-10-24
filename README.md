@@ -1,3 +1,9 @@
-# scalekey_v1
+Scalekey Version 1
 
-Version of Scalekey right before integration of audio logic
+## Authors
+
+- [@victor floyd](https://www.github.com/vfloydev)
+
+## Documentation
+
+Scalekey is a simple digital tool for finding out the notes/tones within a scale. 
