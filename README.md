@@ -1,2 +1,3 @@
-# Scalekey
-Digital tool for displaying the notes in a specified scale.
+# scalekey_v1
+
+Version of Scalekey right before integration of audio logic
